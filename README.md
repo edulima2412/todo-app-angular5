@@ -1,5 +1,8 @@
 # TodoApp
 
+## Preview
+![angular 5](https://user-images.githubusercontent.com/28990547/111912567-fe150180-8a48-11eb-9e18-fdf57ec1aa43.gif)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
 
 ## Development server
